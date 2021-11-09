@@ -22,7 +22,7 @@ como deve ser executada/compilada a aplicação.
 • Implementar a interface da aplicação utilizando React Js or Native;
 
 • O servidor web deve ser implementado na linguagem Python or Node.js
-  • será um diferencial – Pode ser utilizado framework com função de webserver;
+  > será um diferencial – Pode ser utilizado framework com função de webserver;
 
 • Utilizar banco de dados PostgreSQL or SQLite 
   • Pode ser utilizada uma biblioteca ORM;
