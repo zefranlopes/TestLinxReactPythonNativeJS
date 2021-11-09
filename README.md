@@ -23,6 +23,7 @@ como deve ser executada/compilada a aplicação.
 
 • O servidor web deve ser implementado na linguagem Python or Node.js
   > É um diferencial usar essas linguagens de backend
+  
   > Pode ser utilizado algunm framework pronto com função de webserver
 
 • Utilizar banco de dados PostgreSQL or SQLite 
