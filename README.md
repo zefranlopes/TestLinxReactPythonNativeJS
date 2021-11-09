@@ -19,15 +19,22 @@ como deve ser executada/compilada a aplicação.
 
 Observações:
 • Implementar a interface da aplicação utilizando React Js or Native;
+
 • O servidor web deve ser implementado na linguagem Python or Node.js
   • será um diferencial – Pode ser utilizado framework com função de webserver;
+
 • Utilizar banco de dados PostgreSQL or SQLite 
   • Pode ser utilizada uma biblioteca ORM;
+  
 • Publicar o aplicativo no GitHub e enviar o link do repositório;
-• Publicar quaisquer artefatos que você tenha utilizado na implementação deste teste (Postman
-Collection, Swagger, features de testes, etc);
+
+• Publicar quaisquer artefatos que você tenha utilizado na implementação deste teste 
+  • (Postman Collection, Swagger, features de testes, etc);
+
 • Você pode utilizar quaisquer dependências que você tenha conhecimento. 
+
 • Detalhar no arquivo README.md
   • razão pela qual optou por utilizar a dependência (seja por preferência, conhecimento prévio, etc);
+  
 • Efetuar o cadastro e utilizar a API de previsão de 5 dias do site https://openweathermap.org;
 
