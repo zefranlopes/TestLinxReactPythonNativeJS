@@ -17,7 +17,8 @@ devidamente formatado, que detalhe o funcionamento, a estrutura, as dependência
 como deve ser executada/compilada a aplicação.
 
 
-Observações:
+#DESENVOLVER
+
 • Implementar a interface da aplicação utilizando React Js or Native;
 
 • O servidor web deve ser implementado na linguagem Python or Node.js
