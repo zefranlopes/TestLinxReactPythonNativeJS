@@ -34,7 +34,7 @@ como deve ser executada/compilada a aplicação.
 
 • Você pode utilizar quaisquer dependências que você tenha conhecimento. 
 
-• Detalhar no arquivo README.md
+• Detalhar no arquivo README.md 
   • razão pela qual optou por utilizar a dependência (seja por preferência, conhecimento prévio, etc);
   
 • Efetuar o cadastro e utilizar a API de previsão de 5 dias do site https://openweathermap.org;
