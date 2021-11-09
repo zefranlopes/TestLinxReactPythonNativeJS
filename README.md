@@ -27,7 +27,7 @@ como deve ser executada/compilada a aplicação.
   > Pode ser utilizado algunm framework pronto com função de webserver
 
 • Utilizar banco de dados PostgreSQL or SQLite 
-  • Pode ser utilizada uma biblioteca ORM;
+  > Pode ser utilizada uma biblioteca ORM
   
 • Publicar o aplicativo no GitHub e enviar o link do repositório;
 
