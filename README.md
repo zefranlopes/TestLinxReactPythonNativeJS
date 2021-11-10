@@ -21,10 +21,12 @@ como deve ser executada/compilada a aplicação.
 
 • Implementar a interface da aplicação utilizando React Js or Native;
 
-• O servidor web deve ser implementado na linguagem Python or Node.js
-  > É um diferencial usar essas linguagens de backend
+• O servidor web deve ser implementado na linguagem de sua escolha 
+  > É um diferencial usar essas linguagens de backend (*Python / Node.js / PHP)
   
   > Pode ser utilizado algunm framework pronto com função de webserver
+  
+  > Pode ser utilizado outro framework webserver e explique a sua escolha
 
 • Utilizar banco de dados PostgreSQL or SQLite 
   > Pode ser utilizada uma biblioteca ORM
