@@ -45,3 +45,8 @@ como deve ser executada/compilada a aplicação.
   
 • Efetuar o cadastro e utilizar a API de previsão de 5 dias do site https://openweathermap.org;
 
+• Segue um exemplo do Layout sugerido para desenvolvimento
+
+![image](https://user-images.githubusercontent.com/4997948/141123067-866aebee-7140-4047-b38f-6305b76478c5.png)
+
+
