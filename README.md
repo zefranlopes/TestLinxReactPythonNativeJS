@@ -8,7 +8,7 @@ pesquisa deve estar disponível para consulta pelo usuário.
 
 
 2) A interface do aplicativo deve conter um campo de pesquisa pelo nome da cidade e uma área de
-apresentação dos dias de previsão do tempo. Ao efetuar a pesquisa, a interface deverá apresentaros dados
+apresentação dos dias de previsão do tempo. Ao efetuar a pesquisa, a interface deverá apresentar os dados
 da previsão. Ao clicar sobre um dia específico, o usuário visualizará os dados detalhados sobre a previsão
 daquele dia. Uma outra área apresentará os dados já pesquisado pelo usuário (histórico).
 
@@ -19,16 +19,18 @@ como deve ser executada/compilada a aplicação.
 
 #DESENVOLVER
 
-• Implementar a interface da aplicação utilizando React Js or Native;
+• Implementar o frontend da aplicação utilizando React Js ou Native;
+• Implementar o backend da aplicação utilizando Python ou NodeJs;
 
-• O servidor web deve ser implementado na linguagem de sua escolha 
-  > É um diferencial usar essas linguagens de backend (*Python / Node.js / PHP)
+
+• O servidor web(rest/json) deve ser implementado na linguagem de sua escolha 
+  > É um diferencial usar uma dessas linguagens para o backend (*Python(Flask) / Node.js(Express))
   
   > Pode ser utilizado algum framework pronto com função de webserver
   
   > Pode ser utilizado outro framework webserver e explique a sua escolha
 
-• Utilizar banco de dados PostgreSQL or SQLite 
+• Utilizar banco de dados PostgreSQL ou SQLite 
   > Pode ser utilizada uma biblioteca ORM
   
 • Publicar o aplicativo no GitHub e enviar o link do repositório;
